@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Resources
+Config/
+Content/
+Action_KN_V2_422.png
+FirstProject.uproject
